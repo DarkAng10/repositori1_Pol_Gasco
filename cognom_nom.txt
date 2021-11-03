@@ -1,2 +1,3 @@
 "Fitxer congnom_nom que el copiarem a github"
 "Afeigeixo linia desde el reppositori local"
+Angel Rivera
